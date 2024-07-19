@@ -12,3 +12,5 @@ USAGE:
   fourth, YOU CAN USE THE MAP SWITCHER WHILE YOU ARE IN GAME.
   fifth, ok thats it
   👆zamn that rhymed
+
+Maps are included in a release along with the files needed for mod.bat
