@@ -1,8 +1,6 @@
 # OneArmedRobberMapSwitcher
 Replaces jewellery store with other maps. Even prototype and dev ones
 it uses unreal mod unlocker files premade
-https://youtu.be/LyctokRQFvg
-showcase of a
 
 The Following section is for the default steam installation folder of one armed robber, if you have a different one go to section 2
 
